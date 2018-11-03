@@ -7,6 +7,6 @@
 ## Functionality
 * Upload image or photo via webcam to web application
 * Log-in functionality to:
-* * Store images/topics in list sorted by date
-* * Every time you log in, greeted with a list of topics from the most recent day to retain info
+  * Store images/topics in list sorted by date
+  * Every time you log in, greeted with a list of topics from the most recent day to retain info
 * (IN PROGRESS) Release iOS and Android app
