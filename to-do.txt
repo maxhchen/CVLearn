@@ -1,0 +1,17 @@
+Fully Implement Cloud Vision API
+  Query Wikipedia
+
+Upload Image
+
+Users
+  Store images uploaded
+  Get daily lists of pics/terms
+
+HTML/CSS
+
+Finished web applet
+|
+|
+|
+v
+Android/iOS
